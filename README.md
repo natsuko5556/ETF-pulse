@@ -59,6 +59,7 @@ Macro Mapping Engine
 Service Layer: REST API (FastAPI)
 App Layer: Dashboard (Streamlit)
 Research Layer: notebooks & experiments
+
 🛠️ Tech Stack
 Python (pandas, numpy, sklearn)
 FastAPI (backend)
@@ -66,6 +67,7 @@ Streamlit (dashboard)
 Docker (deployment)
 Azure (future deployment)
 GitHub Actions (CI/CD)
+
 📊 Roadmap
 Phase 1 — MVP
 ETF basic data + dashboard
@@ -82,6 +84,7 @@ API deployment (Azure)
 automated data pipeline
 real-time updates
 LLM-powered explanation layer
+
 🎯 Goal
 
 To bridge the gap between:
